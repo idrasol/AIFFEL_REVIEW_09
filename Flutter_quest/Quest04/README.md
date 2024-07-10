@@ -18,18 +18,18 @@
 
 ## 앱 구조도
 
-// ![AI-UX-4-2-08 original](https://github.com/rudykim2003/AIFFEL_QUEST/assets/86637005/1a237b3c-912b-4763-9f13-22fe714549dc)
+
 
 
 
 ## 앱 와이어프레임 (사용 툴 : 0000)
 
-// ![AI-UX-4-2-11_j7hKLsb original](https://github.com/rudykim2003/AIFFEL_QUEST/assets/86637005/538223ca-bc1c-4a0a-a4f6-17f27fc9a6f4)
+
 
 
 ## 프로토타이핑 (사용 툴 : 0000)
 
-// ![AI-UX-4-2-13 original](https://github.com/rudykim2003/AIFFEL_QUEST/assets/86637005/276a76a9-dadc-47c0-a9d3-169e7c033693)
+
 
 
 
@@ -44,7 +44,7 @@
 
 
 ## 구현영상 
-// https://github.com/rudykim2003/AIFFEL_QUEST/assets/86637005/c7f3c3ae-5a26-41ac-bfb0-9cf11bbd074b
+
 
 
 
