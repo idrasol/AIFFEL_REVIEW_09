@@ -17,7 +17,7 @@
 
 
 ## 앱 구조도
-
+![팝퀴즈앱_구조도 drawio](https://github.com/bluetss/AIFFEL_quest/assets/13924283/5a3cc01f-4874-4fed-aaac-8b79df9d1cd2)
 
 
 
