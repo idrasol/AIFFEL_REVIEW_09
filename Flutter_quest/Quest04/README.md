@@ -16,7 +16,7 @@
 
 
 
-## 앱 구조도(사용툴: https://app.diagrams.net/)
+## 앱 구조도(사용 툴: https://app.diagrams.net/)
 ![팝퀴즈앱_구조도 drawio](https://github.com/bluetss/AIFFEL_quest/assets/13924283/5a3cc01f-4874-4fed-aaac-8b79df9d1cd2)
 
 
@@ -27,8 +27,8 @@
 
 
 
-## 프로토타이핑 (사용 툴 : 0000)
-
+## 프로토타이핑 (사용 툴 : 피그마)
+![프로토타이핑](https://github.com/bluetss/AIFFEL_quest/assets/13924283/f96b60e3-4d5a-49dc-bd77-3f5f375deefe)
 
 
 
@@ -40,6 +40,7 @@
 4. my_screen.dart - 내 출제 목록 저장 메뉴
 5. setting_screen.dart - 출제 등 설정 메뉴
 6. user.dart - 라우터 구조 실현을 위한 dart 파일
+7. onboarding_screen.dart - 온보딩 스크린
 
 
 
