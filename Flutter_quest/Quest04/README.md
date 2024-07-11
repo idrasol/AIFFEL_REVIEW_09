@@ -45,7 +45,7 @@
 
 
 ## 구현영상 
-
+https://github.com/bluetss/AIFFEL_quest/assets/13924283/152dd5ad-530a-457d-af90-5994f9ec2d4e
 
 
 
