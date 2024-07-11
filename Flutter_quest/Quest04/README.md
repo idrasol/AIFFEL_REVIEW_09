@@ -54,3 +54,7 @@ https://github.com/bluetss/AIFFEL_quest/assets/13924283/152dd5ad-530a-457d-af90-
 
 
 ## 회고
+1. 어려웠던 점
+    - 하단 navigation bar을 유지하기 위해서 router 구조를 구축한 부분
+2. 새로운 시도
+    - 온보딩 화면에서 main 화면으로 넘어갈 때 타이머를 두고 넘기는 부분
