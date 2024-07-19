@@ -50,7 +50,7 @@ https://github.com/bluetss/AIFFEL_quest/assets/13924283/152dd5ad-530a-457d-af90-
 
 
 ## 구현영상: 가상 에뮬레이터
-
+https://github.com/user-attachments/assets/c831edff-9985-4076-b54a-4c6f5b12aaee
 
 
 
@@ -59,6 +59,9 @@ https://github.com/bluetss/AIFFEL_quest/assets/13924283/152dd5ad-530a-457d-af90-
 
 ## 회고
 1. 어려웠던 점
-    - 하단 navigation bar을 유지하기 위해서 router 구조를 구축한 부분
+    - 사진 촬영후 widget list로 화면의 위젯을 복귀시킨후 다른 위젯 화면으로 바로 가게 만드는 것
+    - 이미지를 로컬에 파일로 저장하는 것
+    - api로 저장된 파일을 업로드하고 이를 서버에서 인공지능으로 처리하는 것
+    - OCR 모델이 구동될 수 있도록 서버를 구축하는 것
 2. 새로운 시도
-    - 온보딩 화면에서 main 화면으로 넘어갈 때 타이머를 두고 넘기는 부분
+    - 그리뷰의 표시 순서를 최신 순으로 바꾸는 것
