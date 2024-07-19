@@ -39,13 +39,17 @@
 3. board_screen.dart - 커뮤니티(게시판) 메뉴
 4. my_screen.dart - 내 출제 목록 저장 메뉴
 5. setting_screen.dart - 출제 등 설정 메뉴
-6. user.dart - 라우터 구조 실현을 위한 dart 파일
+6. image_provider.dart - 이미지 저장을 위한 dart 파일
 7. onboarding_screen.dart - 온보딩 스크린
 
 
 
-## 구현영상 
+## 구현영상: 프로토타이핑
 https://github.com/bluetss/AIFFEL_quest/assets/13924283/152dd5ad-530a-457d-af90-5994f9ec2d4e
+
+
+
+## 구현영상: 가상 에뮬레이터
 
 
 
